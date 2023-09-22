@@ -1,16 +1,11 @@
-.h1{
-    font-size: 200px;
+/* Establece el tamaño de fuente del texto */
+.h1 {
+    font-size: 10rem; /* Puedes ajustar este valor según tus necesidades */
 }
 
-.texto{
-    font-size: 80px;
-}
-
-.encabezado{
-    margin-bottom: 0px;
-    margin-top: 0px;
-}
-.encabezado-titulo {
-    margin-top: 0;
-    margin-bottom: 0;
+/* Limita el tamaño de fuente máximo en pantallas más grandes */
+@media (min-width: 1500px) {
+    .h1 {
+        font-size: 20rem; /* Tamaño máximo en pantallas más grandes */
+    }
 }
