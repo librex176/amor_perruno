@@ -1,0 +1,21 @@
+.parrafo{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: none;
+}
+
+.principal{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+/* styles/cuerpo.css */
+.btn-custom {
+    font-size: 1.5rem; 
+    margin: 8rem; 
+    background-color: rgb(11, 234, 223);
+}
+
+.imagencita{
+    margin-top: 8rem;
+}

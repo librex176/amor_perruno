@@ -1,0 +1,16 @@
+.h1{
+    font-size: 200px;
+}
+
+.texto{
+    font-size: 80px;
+}
+
+.encabezado{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.encabezado-titulo {
+    margin-top: 0;
+    margin-bottom: 0;
+}
